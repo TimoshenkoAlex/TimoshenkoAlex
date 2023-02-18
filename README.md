@@ -31,5 +31,8 @@
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" height="50"/>
 	</a>
 </div>	
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?TimoshenkoAlex=vn7n24fzkq&theme=github_dark"/>
+<a>
+	
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?TimoshenkoAlex=vn7n24fzkq&theme=github_dark"/>
+</a>
+	
