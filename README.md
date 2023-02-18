@@ -32,4 +32,4 @@
 	</a>
 </div>	
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?TimoshenkoAlex=vn7n24fzkq&theme=github_dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?TimoshenkoAlex=vn7n24fzkq&theme=github_dark"/>
