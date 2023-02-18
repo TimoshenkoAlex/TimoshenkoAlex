@@ -21,7 +21,6 @@
 	<a>
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
 	</a>
-	<a href="https://vk.com/timoshenkoalexv">
-		<img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="Вконтакте"/>
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
 	</a>
 </div>	
