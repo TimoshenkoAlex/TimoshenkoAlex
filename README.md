@@ -17,4 +17,11 @@
 <H1>
 	Languages and tools
 </H1
-	
+ <div id="Languages and tools" align="center">
+	<a>
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
+	</a>
+	<a href="https://vk.com/timoshenkoalexv">
+		<img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="Вконтакте"/>
+	</a>
+</div>	
