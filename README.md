@@ -32,7 +32,3 @@
 	</a>
 </div>	
 <a>
-	
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?TimoshenkoAlex=vn7n24fzkq&theme=github_dark"/>
-</a>
-	
