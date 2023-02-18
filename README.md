@@ -11,6 +11,6 @@
 	</a>
 </div>
 <a>
-	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+	How to reach me:
 	<i> timoshenkoalexv@gmail.com </i>
 </a>
